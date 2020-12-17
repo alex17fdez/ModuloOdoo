@@ -60,7 +60,7 @@ before using action= attribute -->
      <field name="arch" type="xml">
         <form>
             <header>
-                <button name="do_marcar" type="object" string="Marcar hechas" class="oe_highlight" />
+                <button name="do_marcar" type="object" string="MARCA de prueba" class="oe_highlight" />
                 <button name="do_limpiar" type="object" string="Limpiar hechas" />
             </header>
             <sheet>
